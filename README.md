@@ -1,8 +1,10 @@
-# README-Generator
+# README-Generator [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   * link to demo video: https://drive.google.com/file/d/10_G0b3yXBJKUWjSCSbOB3QsbLWv7pUd0/view?usp=sharing
   
-  ## Description
-  A README-Generator invoked using Node.js inquirer 
+  # Description
+  Generates a professional README.md
+
+  ---
   ### Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,20 +12,29 @@
   * [Tests](#tests)
   * [Questions](#questions)
   
+  ---
   ## Installation
   npm i
+  ---
   ## Usage
-  To create a professional README.md for your git repo
-  ![readme-test-screenshot](https://user-images.githubusercontent.com/31046919/144167366-e04fd09a-5e5f-4c67-a945-1bc2cc24b311.png)
+  Open a terminal with node.js installed type Node then the js file path
+
+  ---
   ## Contribution Guidelines
-  
+  undefined
+
+  ---
   ## Questions
+
   Contact me at: 
   * Github: https://github.com/undefined
   * Email: user@email.com
+  
   ---
   ## License 
-  Licensed under . 
-  ---
+  Licensed under [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0). 
+ 
+ ---
   ## Tests
   npm run test
+  
