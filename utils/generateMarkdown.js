@@ -76,7 +76,7 @@ function generateMarkdown(data) {
   * [Contribution Guidelines](#contribution-guidelines)
   * [Tests](#tests)
   * [Questions](#questions)
-  ${renderTableofContents(data.license)}
+  
   
   ---
   ## Installation
@@ -88,7 +88,7 @@ function generateMarkdown(data) {
   ---
   ## Contribution Guidelines
   ${data.contribution}
-  
+
   ---
   ## Questions
 
