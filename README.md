@@ -1,5 +1,5 @@
 # README-Generator
-  *link to demo video: https://drive.google.com/file/d/10_G0b3yXBJKUWjSCSbOB3QsbLWv7pUd0/view?usp=sharing
+  * link to demo video: https://drive.google.com/file/d/10_G0b3yXBJKUWjSCSbOB3QsbLWv7pUd0/view?usp=sharing
   
   ## Description
   A README-Generator invoked using Node.js inquirer 
