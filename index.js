@@ -65,7 +65,7 @@ const questions = [
 function writeToFile(fileName, data) {
     const markdownStr = generateMarkdown(data)
     fs.writeFile(`${fileName}.md`, markdownStr, (err) =>
-      err ? console.log(err) : console.log(`Success ${fileName}.md!`))
+      err ? console.log(err) : console.log(`Success you've made a ${fileName}.md!`))
   }
   
   // Runs Inquirer 
