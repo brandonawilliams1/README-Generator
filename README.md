@@ -1,6 +1,7 @@
 # README-Generator
   
-  
+  ![readme-test-screenshot](https://user-images.githubusercontent.com/31046919/144167366-e04fd09a-5e5f-4c67-a945-1bc2cc24b311.png)
+
   ## Description
   This project allows you to generate a read me using node.js inquirer
   ### Table of Contents
