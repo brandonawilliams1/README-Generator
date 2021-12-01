@@ -18,6 +18,7 @@
   ---
   ## Usage
   Open a terminal with node.js installed type Node then the js file path
+  ![readme-test-screenshot](https://user-images.githubusercontent.com/31046919/144183282-404bfbe7-45e6-4d90-bf0f-96065633f126.png)
 
   ---
   ## Contribution Guidelines
