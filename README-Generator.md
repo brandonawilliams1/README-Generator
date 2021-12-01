@@ -2,7 +2,7 @@
   
   
   ## Description
-  This project allows you to generate a read me using node.js inquirer
+  A README-Generator invoked using Node.js inquirer 
   ### Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -11,19 +11,19 @@
   * [Questions](#questions)
   
   ## Installation
-  open a terminal and type nmp i in the command line
+  npm i
   ## Usage
-  To Generate a professional README
+  To create a professional README.md for your git repo
   ## Contribution Guidelines
   
   ## Questions
   Contact me at: 
   * Github: https://github.com/undefined
-  * Email: brandonawilliams@gmail.com
+  * Email: user@email.com
   ---
   ## License 
   Licensed under . 
   ---
   ## Tests
-  Open a terminal and type the following npm run test
+  npm run test
   

@@ -38,7 +38,7 @@ const questions = [
     },
     {
         type: "list",
-        message: "What Licenses do your ?",
+        message: "What Licenses do your application use?",
         name: "license",
         choices: [
             "Apache 2.0",
